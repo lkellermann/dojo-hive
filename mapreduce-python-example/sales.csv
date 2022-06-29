@@ -1,0 +1,5 @@
+client_id,date,product,quantity
+1,2022-05-01,soap,3
+1,2022-05-01,bread,1
+2,2022-05-02,soap,1
+2,2022-05-03,bread,1
